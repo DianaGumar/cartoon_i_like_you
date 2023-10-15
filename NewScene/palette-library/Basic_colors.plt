@@ -1,0 +1,11 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    Default                    0x0bd3f1a245f077ce   0   0   0 255
+Solid    line_second                0x0bd3f1a245f07bd0 212 132 122 255
+Solid    line_main                  0x0bd3f1a245f07d54 128 100 131 255
+Solid    d_sceen                    0x0bd3f1a245f0814f 241 217 195 255
+Solid    a_sceen                    0x0bd3f1a245f2cfae 244 220 195 255
+Solid    a_hair                     0x0bd3f1a245f2d1cd 153 112 123 255
+Solid    d_hair                     0x0bd3f1a245f2d40a 253 221 163 255
+Solid    d_ise                      0x0bd3f1a245f2d593 152 155 154 255
+Solid    a_ise                      0x0bd3f1a245f2d6ce 180 142 137 255
+Solid    white_teez_and_ise         0x0bd3f1a245f2db89 253 239 226 255

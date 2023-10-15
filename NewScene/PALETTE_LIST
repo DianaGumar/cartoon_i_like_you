@@ -1,0 +1,4 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/NewScene LINK "C:/Users/lanta/Downloads/NewScene/palette-library/NewScene.plt"
+palette-library/NewScene_pencil_texture LINK "C:/Users/lanta/Downloads/NewScene/palette-library/NewScene_pencil_texture.plt"
+palette-library/New LINK "C:/Users/lanta/Downloads/NewScene/palette-library/New.plt"
