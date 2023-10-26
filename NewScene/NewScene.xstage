@@ -141,7 +141,7 @@
      <elementSeq exposures="13" val="13" id="13"/>
      <elementSeq exposures="14" val="14" id="13"/>
     </column>
-    <column type="0" name="ATV-0BD435F3F16020E5" displayOrder="1" width="100" anonymous="true" id="14">
+    <column type="0" name="ATV-0BD435F3F16020E5" display="false" displayOrder="1" width="100" anonymous="true" id="14">
      <elementSeq exposures="1-16" val="1" id="14"/>
     </column>
     <column type="0" name="ATV-0BD439778A6180A2" display="false" displayOrder="3" width="100" anonymous="true" id="15">
@@ -191,7 +191,7 @@
        <pt val="0,0,9.2596555204250741" lockedInTime="8"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BD57937246011B1" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BD6C821FDA0133D" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -418,7 +418,6 @@
      <module type="COLOR_CARD" name="Colour-Card" pos="0,0,9" publishUnderTab="Colour-Card">
       <options>
        <disabled val="true"/>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -436,7 +435,6 @@
      </module>
      <module type="READ" name="Drawing_1" pos="0,0,6" publishUnderTab="Drawing_1">
       <options>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -550,7 +548,6 @@
      <module type="READ" name="draft" pos="0,0,7" publishUnderTab="draft">
       <options>
        <disabled val="true"/>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -663,7 +660,7 @@
      </module>
      <module type="READ" name="theway" pos="0,0,5" publishUnderTab="theway">
       <options>
-       <locked val="true"/>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1001,7 +998,6 @@
      </module>
      <module type="PEG" name="Camera-P" pos="0,0,1" publishUnderTab="Camera-P">
       <options>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
